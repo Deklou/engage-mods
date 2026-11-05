@@ -19,8 +19,10 @@ at close range if that is stronger.
 [MIID_Raijinto]
 Raijinto
 [MIID_H_Raijinto]
-A legendary katana from Hoshido. 
-Grants Str+4, Spd+1, Def/Res-1.
+Legendary katana from Hoshido,
+wielded by Emblem Corrin. Grants
+Spd+2, Avo+5, but Def/Res-1.
+Can strike close or at range.
 
 [MIID_Siegfried]
 Siegfried

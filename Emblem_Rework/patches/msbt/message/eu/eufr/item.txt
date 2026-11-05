@@ -22,8 +22,11 @@ plus élevés.
 [MIID_Raijinto]
 Raijinto
 [MIID_H_Raijinto]
-A legendary katana from Hoshido. 
-Grants Str+4, Spd+1, Def/Res-1.
+Katana légendaire d'Hoshido
+manié par l'Emblème Corrin.
+Confère Vit +2, Évit +5,
+mais Déf/Rés -1. Peut attaquer
+au loin ou au corps à corps.
 
 [MIID_Siegfried]
 Siegfried
