@@ -47,9 +47,10 @@ surcoûts de déplacement du terrain.
 [MIID_Brynhildr]
 Brynhildr
 [MIID_H_Brynhildr]
-A legendary tome from Nohr. 
-Grants Ddg+20 and may halve 
-damage from magical attacks.
+Tome légendaire de Nohr manié
+par l'Emblème Corrin. Confère
+Esq +10. Peut réduire de moitié
+la puissance des attaques magiques.
 
 [MID_RoyalWeapons]
 You obtained weapons from Nohr and Hoshido!
