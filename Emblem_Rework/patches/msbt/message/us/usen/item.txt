@@ -27,8 +27,10 @@ Can strike close or at range.
 [MIID_Siegfried]
 Siegfried
 [MIID_H_Siegfried]
-A legendary sword from Nohr.
-Grants Def+4.
+Legendary sword from Nohr,
+wielded by Emblem Corrin.
+Grants Def+4 and Ddg+10.
+Can strike close or at range.
 
 [MIID_FujinYumi]
 Fujin Yumi

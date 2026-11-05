@@ -31,8 +31,10 @@ au loin ou au corps à corps.
 [MIID_Siegfried]
 Siegfried
 [MIID_H_Siegfried]
-A legendary sword from Nohr.
-Grants Def+4.
+Épée légendaire de Nohr maniée
+par l'Emblème Corrin. Confère
+Déf +4 et Esq +10. Peut attaquer
+au loin ou au corps à corps.
 
 [MIID_FujinYumi]
 Yumi Fujin
