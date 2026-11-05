@@ -47,3 +47,9 @@ damage from magical attacks.
 
 [MID_RoyalWeapons]
 You obtained weapons from Nohr and Hoshido!
+
+[MIID_H_Ike_Ragnell]
+Épée sacrée maniée par l'Emblème
+Ike. Confère Déf +5. Peut attaquer
+au loin ou au corps à corps.
+Empêche les coups critiques ennemis.
