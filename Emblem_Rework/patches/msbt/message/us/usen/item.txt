@@ -35,9 +35,10 @@ Can strike close or at range.
 [MIID_FujinYumi]
 Fujin Yumi
 [MIID_H_FujinYumi]
-A legendary yumi from Hoshido. 
-Grants Res+2 and wielder is not
-slowed by terrain effects.
+Legendary yumi from Hoshido,
+wielded by Emblem Corrin. Grants
+Res+2 and Avo+10. Terrain does
+not slow the wielder.
 
 [MIID_Brynhildr]
 Brynhildr

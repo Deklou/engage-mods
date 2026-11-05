@@ -39,9 +39,10 @@ au loin ou au corps à corps.
 [MIID_FujinYumi]
 Yumi Fujin
 [MIID_H_FujinYumi]
-A legendary yumi from Hoshido. 
-Grants Res+2 and wielder is not
-slowed by terrain effects.
+Yumi légendaire d'Hoshido manié
+par l'Emblème Corrin. Confère
+Rés +2 et Évit +10. Ignore les
+surcoûts de déplacement du terrain.
 
 [MIID_Brynhildr]
 Brynhildr
