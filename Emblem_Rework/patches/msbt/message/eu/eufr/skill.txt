@@ -1,0 +1,392 @@
+[MSID_Mag_6]
+Magie +6
+[MSID_H_Mag_6]
+Confère Mag +6.
+
+[MSID_BreakPursuitPlus]
+Brise-défense +
+[MSID_H_BreakPursuitPlus]
+Si l'attaque de l'unité brise la garde
+de l'ennemi, l'unité effectue
+une attaque supplémentaire
+infligeant 100 % de dégâts.
+
+[MSID_H_Fortitude_2]
+Au début de la phase joueur,
+restitue 40% des PV max de l'unité
+si celle-ci a 40% de PV restants
+ou moins
+[MSID_H_Fortitude_3]
+Au début de la phase joueur,
+restitue 60% des PV max de l'unité
+si celle-ci a 60% de PV restants
+ou moins
+
+[MSID_H_MarthEngage_Prana]
+L'unité effectue une attaque
+supplémentaire infligeant 50 %
+de dégâts au combat.
+Adepte qi : brise la garde
+de l'ennemi.
+[MSID_H_MarthEngage_Horse]
+L'unité effectue une attaque
+supplémentaire infligeant 50 %
+de dégâts au combat.
+Cavalerie : l'attaque inflige
+60 % de dégâts.
+
+[MSID_H_EvilCounter_1]
+Si une Aberration attaque l'unité, 
+elle subit 10% de dégâts en moins 
+et 10% des dégâts reçus sont 
+réinfligés à l'ennemi.
+[MSID_H_EvilCounter_2]
+Si une Aberration attaque l'unité,
+elle subit 30% de dégâts en moins
+et 30% des dégâts reçus sont 
+réinfligés à l'ennemi.
+[MSID_H_EvilCounter_3]
+Si une Aberration attaque l'unité, 
+elle subit 50% de dégâts en moins
+et 50% des dégâts reçus sont 
+réinfligés à l'ennemi.
+
+[MSID_Turnwheel]
+Horloge de Mila
+[MSID_H_Turnwheel]
+Permet d'éviter une attaque sur 
+le point de vaincre l'unité.
+Probabilité : 10%, augmentant
+avec la Cha.
+
+[MSID_Turnwheel_2]
+Horloge de Mila +
+[MSID_H_Turnwheel_2]
+Permet d'éviter une attaque sur 
+le point de vaincre l'unité.
+Probabilité : 30%, augmentant
+avec la Cha.
+
+[MSID_H_Approach_1]
+Confère Atq +1 à la première attaque
+de l'unité pour chaque case qu'elle a 
+parcouru avant le combat.
+[MSID_H_Approach_2]
+Confère Atq +2 à la première attaque
+de l'unité pour chaque case qu'elle a 
+parcouru avant le combat.
+
+[MSID_ClosingAttack_2]
+Avancée +
+[MSID_H_ClosingAttack_2]
+Permet de se déplacer de 2 cases
+vers un ennemi éloigné de 3 cases,
+puis de l'attaquer.
+[MSID_H_ClosingAttack_CMD_2]
+Avancez de 2 cases et attaquez.
+
+[MSID_H_SwordArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise une épée.
+[MSID_H_SwordArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise une épée.
+[MSID_H_SwordArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise une épée.
+[MSID_H_SwordArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise une épée.
+[MSID_H_SwordArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise une épée.
+
+[MSID_H_LanceArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise une lance.
+[MSID_H_LanceArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise une lance.
+[MSID_H_LanceArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise une lance.
+[MSID_H_LanceArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise une lance.
+[MSID_H_LanceArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise une lance.
+
+[MSID_H_AxeArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise une hache.
+[MSID_H_AxeArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise une hache.
+[MSID_H_AxeArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise une hache.
+[MSID_H_AxeArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise une hache.
+[MSID_H_AxeArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise une hache.
+
+[MSID_H_AugmentDamage_1]
+L'unité subit -3 points de dégâts
+si son arme n'est pas désavantagée.
+[MSID_H_AugmentDamage_2]
+L'unité subit -5 points de dégâts
+si son arme n'est pas désavantagée.
+[MSID_H_AugmentDamage_3]
+L'unité subit -7 points de dégâts
+si son arme n'est pas désavantagée.
+
+[MSID_MasterKnight_1]
+Maître chevalier
+[MSID_H_MasterKnight_1]
+L'unité peut être équipée d'épées,
+lances et haches de niveau C maximum.
+
+[MSID_Pierce]
+Percée
+[MSID_H_Pierce]
+En combat, l'unité inflige et reçoit 
+au minimum 1 point de dégâts.
+
+[MSID_BowArts_Hard_1]
+Puissance arc 1
+[MSID_BowArts_Hard_2]
+Puissance arc 2
+[MSID_BowArts_Hard_3]
+Puissance arc 3
+[MSID_BowArts_Hard_4]
+Puissance arc 4
+[MSID_BowArts_Hard_5]
+Puissance arc 5
+
+[MSID_H_BowArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise un arc.
+[MSID_H_BowArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise un arc.
+[MSID_H_BowArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise un arc.
+[MSID_H_BowArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise un arc.
+[MSID_H_BowArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise un arc.
+
+[MSID_Def_6]
+Défense +6
+[MSID_H_Def_6]
+Confère Déf +6.
+
+[MSID_Res_6]
+Résistance +6
+[MSID_H_Res_6]
+Confère Rés +6.
+
+[MSID_H_DualSupport]
+Confère un bonus d'Esq qui
+augmente selon le niveau de soutien
+qu'a l'unité avec ses alliés adjacents.
+(+50 max)
+
+[MSID_KnifeArts_Hard_1]
+Puissance dague 1
+[MSID_KnifeArts_Hard_2]
+Puissance dague 2
+[MSID_KnifeArts_Hard_3]
+Puissance dague 3
+[MSID_KnifeArts_Hard_4]
+Puissance dague 4
+[MSID_KnifeArts_Hard_5]
+Puissance dague 5
+
+[MSID_H_KnifeArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise une dague.
+[MSID_H_KnifeArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise une dague.
+[MSID_H_KnifeArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise une dague.
+[MSID_H_KnifeArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise une dague.
+[MSID_H_KnifeArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise une dague.
+
+[MSID_MartialArts_Hard_1]
+Puissance art 1
+[MSID_MartialArts_Hard_2]
+Puissance art 2
+[MSID_MartialArts_Hard_3]
+Puissance art 3
+[MSID_MartialArts_Hard_4]
+Puissance art 4
+[MSID_MartialArts_Hard_5]
+Puissance art 5
+
+[MSID_H_MartialArts_Hard_1]
+Confère Atq +1 et inflige Esq -10
+lorsque l'unité utilise un art.
+[MSID_H_MartialArts_Hard_2]
+Confère Atq +2 et inflige Esq -10
+lorsque l'unité utilise un art.
+[MSID_H_MartialArts_Hard_3]
+Confère Atq +3 et inflige Esq -10
+lorsque l'unité utilise un art.
+[MSID_H_MartialArts_Hard_4]
+Confère Atq +4 et inflige Esq -10
+lorsque l'unité utilise un art.
+[MSID_H_MartialArts_Hard_5]
+Confère Atq +5 et inflige Esq -10
+lorsque l'unité utilise un art.
+
+[MSID_H_LucinaRing_Chrom]
+Augmente de 20% les chances
+d'activation de toutes les techniques
+de cette unité.
+
+[MSID_H_BreakThroughLimit]
+Si l'unité élimine un ennemi d'un
+niveau plus élevé, confère +1 au
+niveau jusqu'à la fin du combat
+(+5 max).
+
+[MSID_H_PreventionReturn]
+Si l'unité initie le combat, confère 
+une chance de briser la garde de 
+l'ennemi. Si sa garde est déjà brisée,
+sa garde restera brisée. La probabilité 
+augmente si la Vit est élevée.
+
+[MSID_H_LucinaEngage]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+
+[MSID_H_LucinaEngage_Dragon]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+Dragon : probabilité augmentée
+de 10 %.
+
+[MSID_H_LucinaEngage_Horse]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+Cavalier: probabilité de 100 %
+pour un allié cavalier.
+
+[MSID_H_LucinaEngage_Heavy]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+Cuirassé: probabilité de 100 %
+pour un allié cuirassé.
+
+[MSID_H_LucinaEngage_Fly]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+Volant: probabilité de 100 %
+pour un allié volant.
+
+[MSID_H_LucinaEngage_Prana]
+Empêche les attaques initiales sur 
+les alliés adjacents jusqu'à votre
+prochain tour. Probabilité : 80 %.
+L'effet prend fin après 3 attaques
+subies.
+Adepte qi : probabilité de 100 %.
+
+[MSID_H_ByForce]
+Pendant un combat contre un ennemi
+adjacent, si l'unité 
+
+[MSID_ByForce+]
+Brute Force+
+
+[MSID_H_ByForce+]
+During combat with an adjacent foe,
+if unit doesn't follow up, attack is 
+guaranteed to hit and deals +5 damage.
+
+[MSID_Charisma+]
+Charisme +
+[MSID_H_Charisma+]
+Si l'attaque de l'unité déclenche une
+attaque enchaînée, augmente
+la précision de celle-ci à 90%.
+
+[MSID_Tec_5]
+Technique +6
+[MSID_H_Tec_5]
+Confère Tec +6.
+
+[MSID_Phy_2]
+Constitution +2
+[MSID_H_Phy_2]
+Confère Cst +2.
+
+[MSID_Phy_5]
+Constitution +6
+[MSID_H_Phy_5]
+Confère Cst +6.
+
+[MSID_H_SwordKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'une épée,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_LanceKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'une lance,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_AxeKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'une hache,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_MagicKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'un tome,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_BowKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'un arc,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_KnifeKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'une dague,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.
+[MSID_H_PranaKilling]
+Si l'unité possède 100% de ses PV et 
+que l'ennemi est équipé d'un art,
+l'unité peut effectuer une double frappe,
+mais pas l'ennemi.

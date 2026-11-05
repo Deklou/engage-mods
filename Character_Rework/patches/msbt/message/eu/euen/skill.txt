@@ -1,0 +1,68 @@
+[MSID_H_PrivateSkill_Vandre]
+If unit is adjacent to the Divine 
+Dragon, Clanne or Framme, grants 
+Hit+10 during combat to both.
+
+[MSID_H_PrivateSkill_Clan]
+If unit is adjacent to the Divine 
+Dragon, Framme or Vander, grants 
+Crit+10 during combat to both.
+
+[MSID_H_PrivateSkill_Fran]
+If unit is adjacent to the Divine 
+Dragon, Clanne or Vander, grants 
+Avo+10 during combat to both.
+
+[MSID_PrivateSkill_Alfred]
+Guardian Duty
+
+[MSID_H_PrivateSkill_Alfred]
+Unit takes 10% less damage.
+
+[MSID_PrivateSkill_Lapis_2]
+Brawn
+
+[MSID_H_PrivateSkill_Lapis_2]
+Reduces Wt of unit’s equipment to 80%.
+
+[MSID_H_PrivateSkill_Lapis]
+If there is an ally within 1 space,
+grants Hit/Avo+10.
+
+[MSID_H_PrivateSkill_Diamand2]
+If both unit and foe can attack, grants
+Hit+15 and +15% to trigger rate for all 
+skills with trigger rates to unit and foe.
+
+[MSID_H_PrivateSkill_Jade]
+When hit by a magical attack, 
+grants Res+4 for 1 turn.
+
+[MSID_H_PrivateSkill_Umber]
+if unit moved at least 3 spaces 
+before combat, grants Hit+20.
+
+[MSID_H_PrivateSkill_Fogato]
+During combat with a foe who was
+also unit's most recent opponent,
+grants Crit+10.
+
+[MSID_H_PrivateSkill_Bonet]
+At start of player phase, unit 
+recovers 20 HP. Trigger %=Lck.
+
+[MSID_PrivateSkill_Selestia_E]
+Rallying Cry
+
+[MSID_PrivateSkill_Gregory_E]
+Sweet Agony
+
+[MSID_PrivateSkill_Madeline_E]
+Play Fair!
+
+[MSID_JobSkill_ShadowPrincessR]
+Improve Emblem
+
+[MSID_H_JobSkill_ShadowPrincessR]
+When doing an engage attack, 
+grants +20% damage.

@@ -1,0 +1,118 @@
+[MSID_H_CleanUp]
+Critical hits deal +5 damage.
+[MSID_H_CleanUp+]
+Critical hits deal +10 damage.
+
+
+[MSID_H_EarthVeinAbsorption]
+After unit acts or waits in flames, miasma, 
+or similar terrain effect, grants Crit+10,
+unit clears effect and recovers 10 HP.
+
+[MSID_H_Detox]
+Cures poison at start of turn and 
+unit recovers 20% of Max HP.
+
+[MSID_H_HectorEngage_Heavy]
+If foe initiates combat, grants
+Def/Res+30% during combat.
+[Armored] Grants Def+50%
+and Res+50% instead of +30%.
+
+
+[MSID_H_HeavyAttack]
+When making a physical attack, if 
+unit's Bld exceeds the equipped
+weapon's Wt, adds excess as damage.
+
+
+[MSID_H_GazeDiagonally]
+Use when unit had 30% HP or more
+to consume 20% of max HP and 
+prevent foes from entering the 
+4 spaces diagonally adjacent to 
+unit for 1 turn.
+
+
+[MSID_WARNING_GazeDiagonally_CMD]
+Unit doesn't have enough HP.
+
+[MSID_BrashAssault]
+Brash Assault
+
+[MSID_H_BrashAssault]
+If unit's HP is 20% or less and 
+initiates combat against a foe that
+can counterattack, unit will always
+follow up (if weapon allows).
+
+[MSID_BrashAssault+]
+Brash Assault+
+
+[MSID_H_BrashAssault+]
+If unit's HP is 40% or less and 
+initiates combat against a foe that
+can counterattack, unit will always
+follow up (if weapon allows).
+
+[MSID_H_AntiAxeArts_1]
+If unit is equipped with an axe, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiAxeArts_2]
+If unit is equipped with an axe, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiAxeArts_3]
+If unit is equipped with an axe, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiAxeArts_4]
+If unit is equipped with an axe, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiAxeArts_5]
+If unit is equipped with an axe, unit
+takes 5 less damage during combat.
+
+
+[MSID_H_AntiLanceArts_1]
+If unit is equipped with a lance, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiLanceArts_2]
+If unit is equipped with a lance, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiLanceArts_3]
+If unit is equipped with a lance, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiLanceArts_4]
+If unit is equipped with a lance, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiLanceArts_5]
+If unit is equipped with a lance, unit
+takes 5 less damage during combat.
+
+
+[MSID_H_AntiMagicArts_1]
+If unit is equipped with a tome, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiMagicArts_2]
+If unit is equipped with a tome, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiMagicArts_3]
+If unit is equipped with a tome, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiMagicArts_4]
+If unit is equipped with a tome, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiMagicArts_5]
+If unit is equipped with a tome, unit
+takes 5 less damage during combat.

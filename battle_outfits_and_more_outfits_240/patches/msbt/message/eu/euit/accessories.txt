@@ -1,0 +1,172 @@
+[MAID_OriginalAccessory]
+Original Accessory
+
+[MAID_EngageCamilla]
+Engaged (Camilla)
+
+[MAID_H_Battle]
+Battle outfit from the class that the character originally joins as.
+
+[MAID_H_HouseLeader]
+An Officers Academy uniform belonging to a certain house leader.
+
+[MAID_EngageEirika]
+Engaged (Eirika)
+
+[MAID_EngageSigurd]
+Engaged (Sigurd)
+
+[MAID_H_Morion]
+Armor worn by the late King Morion.
+
+[MAID_EngageIke]
+Engaged (Ike)
+
+[MAID_Battle]
+Battle Outfit
+
+[MAID_EngageHector]
+Engaged (Hector)
+
+[MAID_Morion]
+Morion's Armor
+
+[MAID_EngageLeif]
+Engaged (Leif)
+
+[MAID_EngageLucina]
+Engaged (Lucina)
+
+[MAID_EngageCelica]
+Engaged (Celica)
+
+[MAID_EngageSoren]
+Engaged (Soren)
+
+[MAID_EngageMarth]
+Engaged (Marth)
+
+[MAID_H_OriginalAccessory]
+May apply unit's original casual accessory depending on outfit.
+
+[MAID_Costume_Eirik_M]
+Ephraim Style
+
+[MAID_H_Casual]
+Casual clothing usable in battle.
+
+[MAID_EngageByleth]
+Engaged (Byleth)
+
+[MAID_ClaudeOutfit]
+Officers Academy (Claude)
+
+[MAID_H_Costume_Eirik_M]
+Based on Ephraim, the Emblem of the Sacred. A prince who wields his
+lance for the sake of peace.
+
+[MAID_Casual]
+Casual Outfit (Battle)
+
+[MAID_EngageLyn]
+Engaged (Lyn)
+
+[MAID_EngageRoy]
+Engaged (Roy)
+
+[MAID_EngageMicaiah]
+Engaged (Micaiah)
+
+[MAID_EdelgardOutfit]
+Officers Academy (Edelgard)
+
+[MAID_EngageCorrin]
+Engaged (Corrin)
+
+[MAID_BattlePromo]
+Battle Outfit (Promoted)
+
+[MAID_EngageEdelgard]
+Engaged (Edelgard)
+
+[MAID_H_EngageOutfits]
+An outfit imbued with the power of an Emblem.
+
+[MAID_DimitriOutfit]
+Officers Academy (Dimitri)
+
+[MAID_EngageChrom]
+Engaged (Chrom)
+
+[MAID_EngageVeronica]
+Engaged (Veronica)
+
+[MAID_PastHair]
+Red Style
+
+[MAID_FutureHair]
+Blue Style
+
+[MAID_H_TimeHair]
+An alternate single colored look for the Divine Dragon.
+
+[MAID_AlearPast]
+Divine Dragon (alt.)
+
+[MAID_H_AlearPast]
+An alternate look for the Divine Dragon's combat attire.
+
+[MAID_FellStyle]
+Fell Style
+
+[MAID_H_FellStyle]
+Wait, something seems wrong here...
+
+[MAID_HectorOutfit]
+Hector Style
+
+[MAID_H_Costume_Hector]
+Based on Hector, the Emblem of Strength.
+
+[MAID_TikiOutfit]
+Tiki Style
+
+[MAID_H_Costume_Tiki]
+Based on Tiki, the Emblem of Dragons.
+
+[MAID_SorenOutfit]
+Soren Style
+
+[MAID_H_Costume_Soren]
+Based on Soren, the Emblem of Acumen.
+
+[MAID_VeronicaOutfit]
+Veronica Style
+
+[MAID_H_Costume_Veronica]
+Based on Veronica, the Emblem of Heroes.
+
+[MAID_ChromOutfit]
+Chrom Style
+
+[MAID_H_Costume_Chrom]
+Based on Chrom, the Emblem of Bonds.
+
+[MAID_RobinOutfit]
+Robin Style
+
+[MAID_H_Costume_Robin]
+Based on Robin, the Emblem of Bonds.
+
+[MAID_CamillaOutfit]
+Camilla Style
+
+[MAID_H_Costume_Camilla]
+Based on Camilla, the Emblem of Revelation.
+
+[MAID_ButterflyMask]
+Butterfly Mask
+
+[MAID_H_ButterflyMask]
+A mask in the shape of a butterfly worn by a certain time traveler
+to disguise their identity.

@@ -1,0 +1,50 @@
+[MSID_H_AntiKnifeArts_1]
+Si l'unité est équipée d'une dague,
+l'unité subit -1 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiKnifeArts_2]
+Si l'unité est équipée d'une dague,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiKnifeArts_3]
+Si l'unité est équipée d'une dague,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiKnifeArts_4]
+Si l'unité est équipée d'une dague,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiKnifeArts_5]
+Si l'unité est équipée d'une dague,
+l'unité subit -5 points de dégâts
+pendant le combat.
+
+
+[MSID_H_AntiSwordArts_1]
+Si l'unité est équipée d'une épée,
+l'unité subit -1 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiSwordArts_2]
+Si l'unité est équipée d'une épée,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiSwordArts_3]
+Si l'unité est équipée d'une épée,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiSwordArts_4]
+Si l'unité est équipée d'une épée,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiSwordArts_5]
+Si l'unité est équipée d'une épée,
+l'unité subit -5 points de dégâts
+pendant le combat.

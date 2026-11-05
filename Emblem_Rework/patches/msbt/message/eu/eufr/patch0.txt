@@ -1,0 +1,50 @@
+[MSID_H_AntiBowArts_1]
+Si l'unité est équipée d'un arc,
+l'unité subit -1 point de dégâts
+pendant le combat.
+
+[MSID_H_AntiBowArts_2]
+Si l'unité est équipée d'un arc,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiBowArts_3]
+Si l'unité est équipée d'un arc,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiBowArts_4]
+Si l'unité est équipée d'un arc,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiBowArts_5]
+Si l'unité est équipée d'un arc,
+l'unité subit -5 points de dégâts
+pendant le combat.
+
+
+[MSID_H_AntiSpecialArts_1]
+Si l'unité lance une attaque
+spéciale, l'unité subit -1 point
+de dégâts pendant le combat.
+
+[MSID_H_AntiSpecialArts_2]
+Si l'unité lance une attaque
+spéciale, l'unité subit -2 points
+de dégâts pendant le combat.
+
+[MSID_H_AntiSpecialArts_3]
+Si l'unité lance une attaque
+spéciale, l'unité subit -3 points
+de dégâts pendant le combat.
+
+[MSID_H_AntiSpecialArts_4]
+Si l'unité lance une attaque
+spéciale, l'unité subit -4 points
+de dégâts pendant le combat.
+
+[MSID_H_AntiSpecialArts_5]
+Si l'unité lance une attaque
+spéciale, l'unité subit -5 points
+de dégâts pendant le combat.

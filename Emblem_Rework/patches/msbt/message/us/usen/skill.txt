@@ -1,0 +1,353 @@
+[MSID_Mag_6]
+Magic +6
+[MSID_H_Mag_6]
+Grants Mag+6.
+
+[MSID_BreakPursuitPlus]
+Break Defenses+
+[MSID_H_BreakPursuitPlus]
+If unit's attack breaks foe, unit
+makes an extra attack at 100%
+damage.
+
+[MSID_H_Fortitude_2]
+At start of player phase, if HP is
+40% or less, restores 40% of unit's
+max HP.
+[MSID_H_Fortitude_3]
+At start of player phase, if HP is
+60% or less, restores 60% of unit's
+max HP.
+
+[MSID_H_MarthEngage_Prana]
+Unit performs an extra attack
+at 50% damage in combat.
+[Qi Adept] Breaks foe.
+[MSID_H_MarthEngage_Horse]
+Unit performs an extra attack
+at 50% damage in combat.
+[Cavalry] Extra attack deals
+60% of damage.
+
+[MSID_H_EvilCounter_1]
+If a Corruped attacks unit, takes
+10% less damage and deals 10% of 
+damage taken back to foe.
+[MSID_H_EvilCounter_2]
+If a Corruped attacks unit, takes
+30% less damage and deals 30% of 
+damage taken back to foe.
+[MSID_H_EvilCounter_3]
+If a Corruped attacks unit, takes
+50% less damage and deals 50% of 
+damage taken back to foe.
+
+[MSID_Turnwheel]
+Mila's Turnwheel
+[MSID_H_Turnwheel]
+Avoids foe's attack when unit would
+be defeated. Trigger %=10.
+Chance increases with high Lck.
+
+[MSID_Turnwheel_2]
+Mila's Turnwheel+
+[MSID_H_Turnwheel_2]
+Avoids foe's attack when unit would
+be defeated. Trigger %=30.
+Chance increases with high Lck.
+
+[MSID_H_Approach_1]
+Grants Atk+1 to first attack during
+combat for each space unit moved
+before attacking.
+[MSID_H_Approach_2]
+Grants Atk+2 to first attack during
+combat for each space unit moved
+before attacking.
+
+[MSID_H_LucinaEngage]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[MSID_H_LucinaEngage_Dragon]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[Dragon] +10% to trigger rate.
+[MSID_H_LucinaEngage_Horse]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[Cavalry] Trigger %=100 for 
+cavalry allies.
+[MSID_H_LucinaEngage_Heavy]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[Armored] Trigger %=100 for
+armored allies.
+[MSID_H_LucinaEngage_Fly]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[Flying] Trigger %=100 for
+flying allies.
+[MSID_H_LucinaEngage_Prana]
+Use to prevent first attacks on
+adjacent allies until your next turn.
+Trigger %=80. Effect is removed after
+3 attacks.
+[Qi Adept] Trigger %=100.
+
+[MSID_H_SwordArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using a sword.
+[MSID_H_SwordArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using a sword.
+[MSID_H_SwordArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using a sword.
+[MSID_H_SwordArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using a sword.
+[MSID_H_SwordArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using a sword.
+
+[MSID_H_LanceArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using a lance.
+[MSID_H_LanceArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using a lance.
+[MSID_H_LanceArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using a lance.
+[MSID_H_LanceArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using a lance.
+[MSID_H_LanceArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using a lance.
+
+[MSID_H_AxeArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using a axe.
+[MSID_H_AxeArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using a axe.
+[MSID_H_AxeArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using a axe.
+[MSID_H_AxeArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using a axe.
+[MSID_H_AxeArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using a axe.
+
+[MSID_H_AugmentDamage_1]
+When unit has no weapon
+disadvantage, unit takes 3 
+less damage.
+[MSID_H_AugmentDamage_2]
+When unit has no weapon
+disadvantage, unit takes 5 
+less damage.
+[MSID_H_AugmentDamage_3]
+When unit has no weapon
+disadvantage, unit takes 7 
+less damage.
+
+[MSID_MasterKnight_1]
+Master Knight
+[MSID_H_MasterKnight_1]
+Unit can equip swords, lances
+and axes up to level C.
+
+[MSID_Pierce]
+Pierce
+[MSID_H_Pierce]
+Unit deals and takes at least 
+1 damage during combat.
+
+[MSID_BowArts_Hard_1]
+Bow Power 1
+[MSID_BowArts_Hard_2]
+Bow Power 2
+[MSID_BowArts_Hard_3]
+Bow Power 3
+[MSID_BowArts_Hard_4]
+Bow Power 4
+[MSID_BowArts_Hard_5]
+Bow Power 5
+
+[MSID_H_BowArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using a bow.
+[MSID_H_BowArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using a bow.
+[MSID_H_BowArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using a bow.
+[MSID_H_BowArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using a bow.
+[MSID_H_BowArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using a bow.
+
+[MSID_Def_6]
+Defense +6
+[MSID_H_Def_6]
+Grants Def+6.
+
+[MSID_Res_6]
+Resistance +6
+[MSID_H_Res_6]
+Grants Res+6.
+
+[MSID_H_DualSupport]
+Grant a bonus to Avo that increases
+with unit's support level with 
+adjacent allies. (Max +50)
+
+[MSID_KnifeArts_Hard_1]
+Knife Power 1
+[MSID_KnifeArts_Hard_2]
+Knife Power 2
+[MSID_KnifeArts_Hard_3]
+Knife Power 3
+[MSID_KnifeArts_Hard_4]
+Knife Power 4
+[MSID_KnifeArts_Hard_5]
+Knife Power 5
+
+[MSID_H_KnifeArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using a knife.
+[MSID_H_KnifeArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using a knife.
+[MSID_H_KnifeArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using a knife.
+[MSID_H_KnifeArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using a knife.
+[MSID_H_KnifeArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using a knife.
+
+[MSID_MartialArts_Hard_1]
+Art Power 1
+[MSID_MartialArts_Hard_2]
+Art Power 2
+[MSID_MartialArts_Hard_3]
+Art Power 3
+[MSID_MartialArts_Hard_4]
+Art Power 4
+[MSID_MartialArts_Hard_5]
+Art Power 5
+
+[MSID_H_MartialArts_Hard_1]
+Grants Atk+1 at a cost of Avo-10
+when using an art.
+[MSID_H_MartialArts_Hard_2]
+Grants Atk+2 at a cost of Avo-10
+when using an art.
+[MSID_H_MartialArts_Hard_3]
+Grants Atk+3 at a cost of Avo-10
+when using an art.
+[MSID_H_MartialArts_Hard_4]
+Grants Atk+4 at a cost of Avo-10
+when using an art.
+[MSID_H_MartialArts_Hard_5]
+Grants Atk+5 at a cost of Avo-10
+when using an art.
+
+[MSID_H_LucinaRing_Chrom]
+Adds +20% to trigger rate for all skills
+with trigger rates.
+
+[MSID_H_BreakThroughLimit]
+When unit defeats a foe of a higher
+level, grants Lvl+1 until the end of
+battle. (Max +5)
+
+[MSID_H_PreventionReturn]
+When unit initiates combat, grants a 
+chance to break foe. If foe is already 
+broken, they will remain broken. 
+Chance increases with high Spd.
+
+[MSID_H_ByForce]
+During combat with an adjacent foe,
+if unit doesn't follow up, attack is 
+guaranteed to hit and deals +3 damage.
+
+[MSID_ByForce+]
+Brute Force+
+
+[MSID_H_ByForce+]
+During combat with an adjacent foe,
+if unit doesn't follow up, attack is 
+guaranteed to hit and deals +5 damage.
+
+[MSID_Charisma+]
+Charm+
+[MSID_H_Charisma+]
+If unit's attack triggers a chain
+attack, increases chain attack
+accuracy to 100%
+
+[MSID_Tec_5]
+Dexterity +6
+[MSID_H_Tec_5]
+Grants Dex+6.
+
+[MSID_Phy_2]
+Build +2
+[MSID_H_Phy_2]
+Grants Bld+2.
+
+[MSID_Phy_5]
+Build +6
+[MSID_H_Phy_5]
+Grants Bld+6.
+
+[MSID_H_SwordKilling]
+If unit’s HP=100% and foe has a sword
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_LanceKilling]
+If unit’s HP=100% and foe has a lance
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_AxeKilling]
+If unit’s HP=100%t and foe has a axe
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_MagicKilling]
+If unit’s HP=100% and foe has a tome
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_BowKilling]
+If unit’s HP=100% and foe has a bow
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_KnifeKilling]
+If unit’s HP=100% and foe has a knife
+equipped, unit can follow up and foe
+cannot follow up.
+[MSID_H_PranaKilling]
+If unit’s HP=100% and foe has an art
+equipped, unit can follow up and foe
+cannot follow up.

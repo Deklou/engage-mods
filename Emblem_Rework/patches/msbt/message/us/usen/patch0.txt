@@ -1,0 +1,45 @@
+[MSID_H_AntiBowArts_1]
+If unit is equipped with a bow, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiBowArts_2]
+If unit is equipped with a bow, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiBowArts_3]
+If unit is equipped with a bow, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiBowArts_4]
+If unit is equipped with a bow, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiBowArts_5]
+If unit is equipped with a bow, unit
+takes 5 less damage during combat.
+
+
+[MSID_H_AntiSpecialArts_1]
+If unit is equipped with a special
+attack, unit takes 1 less damage
+during combat.
+
+[MSID_H_AntiSpecialArts_2]
+If unit is equipped with a special
+attack, unit takes 2 less damage
+during combat.
+
+[MSID_H_AntiSpecialArts_3]
+If unit is equipped with a special
+attack, unit takes 3 less damage
+during combat.
+
+[MSID_H_AntiSpecialArts_4]
+If unit is equipped with a special
+attack, unit takes 4 less damage
+during combat.
+
+[MSID_H_AntiSpecialArts_5]
+If unit is equipped with a special
+attack, unit takes 5 less damage
+during combat.

@@ -1,0 +1,127 @@
+[MPID_H_Etie]
+Vassale du prince Alfred.
+Femme fière, passionnée par le 
+développement de ses muscles.
+Vassal : Alfred et Boucheron 
+bénéficient de sa compétence
+personnelle lorsqu'ils lui sont
+adjacents.
+[MPID_H_Boucheron]
+Vassal du prince Alfred. Jeune
+homme au coeur tendre dont
+la large carrure est naturelle.
+Vassal : Alfred et Etie 
+bénéficient de sa compétence
+personnelle lorsqu'ils lui sont
+adjacents.
+
+[MPID_H_Chloe]
+Vassale de la princesse Céline.
+De noble naissance, elle aime les
+contes de fées et la cuisine de rue.
+Vassal : Céline et Louis 
+bénéficient de sa compétence
+personnelle lorsqu'ils lui sont
+adjacents.
+[MPID_H_Louis]
+Vassal de la princesse Céline.
+Gentilhomme souriant et raffiné
+ayant une passion pour le thé.
+Vassal : Céline et Chloé 
+bénéficient de sa compétence
+personnelle lorsqu'elles lui sont
+adjacentes.
+
+[MPID_H_Citrinica]
+Vassale du prince Alcryst. Malgré
+une certaine agressivité, c'est une
+noble très attachées à ses amis.
+Vassal : Alcryst et Lapis 
+bénéficient de sa compétence
+personnelle lorsqu'ils lui sont
+adjacents.
+[MPID_H_Lapis]
+Vassale du prince Alcryst. Sa
+discrétion et sa modestie contrastent
+avec sa force surhumaine.
+Vassal : Alcryst et Citrinne 
+bénéficient de sa compétence
+personnelle lorsqu'ils lui sont
+adjacents.
+
+[MPID_H_Umber]
+Vassal du prince Diamant. Déborde
+d'enthousiasme dès qu'il est
+question d'aventures ou de légendes.
+Vassal : Diamant et Jade bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+[MPID_H_Jade]
+Vassale du prince Diamant. Guerrière
+Peu loquace, mais qui n'en pense 
+pas moins.
+Vassal : Diamant et Amber bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+
+[MPID_H_Kagetsu]
+Vassal de la princesse Ivy. Séduisant
+jeune homme ayant grandi loin
+d'Elusia. S'exprime sans gêne.
+Vassal : Ivy et Zelkov bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+[MPID_H_Zelkova]
+Vassal de la princesse Ivy. Toujours
+absorbé par ses propres intrigues,
+il passe parfois pour énigmatique.
+Vassal : Ivy et Kagetsu bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+
+[MPID_H_Pandoro_2]
+Vassal du prince Fogado. Si ce clerc
+aime s'amuser, sa ferveur religieuse
+n'en est pas moins profonde.
+Vassal : Fogado et Bunet bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+[MPID_H_Bonet_2]
+Vassal du prince Fogado. Jeune
+cuisinier au palais délicat et à
+l'odorat développé.
+Vassal : Fogado et Pandreo bénéficient 
+de sa compétence personnelle 
+lorsqu'ils lui sont adjacents.
+
+[MPID_H_Panetone]
+Vassale de la princesse Timerra. Son
+discours affecté manque parfois de
+naturel et peut s'avérer inconstant.
+Vassal : Timerra et Merrin bénéficient 
+de sa compétence personnelle 
+lorsqu'elles lui sont adjacentes.
+[MPID_H_Merin]
+Vassale de la princesse Timerra.
+Elégante jeune femme amoureuse
+des animaux.
+Vassal : Timerra et Panette bénéficient 
+de sa compétence personnelle 
+lorsqu'elles lui sont adjacentes.
+
+[MPID_H_Rosado]
+Vassal de la princesse Hortensia.
+Aime tout ce qui est mignon et ne
+se départit jamais de son optimisme.
+Vassal : Hortensia et Goldmary 
+bénéficient de sa compétence 
+personnelle lorsqu'elles lui sont 
+adjacentes.
+[MPID_H_Goldmary]
+Vassale de la princesse Hortensia.
+Sa réserve apparente cache
+une arrogance boursouflée.
+Vassal : Hortensia et Rosado 
+bénéficient de sa compétence 
+personnelle lorsqu'ils lui sont 
+adjacents.

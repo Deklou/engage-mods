@@ -1,0 +1,140 @@
+[MSID_H_CleanUp]
+L'unité inflige +5 points de
+dégâts lors d'un coup critique.
+[MSID_H_CleanUp+]
+L'unité inflige +10 points de
+dégâts lors d'un coup critique.
+
+
+[MSID_H_EarthVeinAbsorption]
+Si l'unité agit ou attend sur une case
+à effet (flammes, miasmes, etc.), confère
+Crit +10, annule les effets qui touchent 
+la case qu'elle occupe et restaure 10 PV.
+
+[MSID_H_Detox]
+Soigne le poison et l'unité recouvre
+20% de ses PV Max en début de tour.
+
+[MSID_H_HectorEngage_Heavy]
+Si l'ennemi initie le combat, confère
+Déf/Rés +30 % pendant le combat.
+Cuirassé : confère Déf +50 % et
+Rés +50 % au lieu de +30 %.
+
+
+[MSID_H_HeavyAttack]
+Lors d'une attaque physique, si la 
+Cst de l'unité est supérieure au poids
+de l'arme utilisée, elle inflige des
+dégâts supplémentaires égaux à la
+différence.
+
+
+[MSID_H_GazeDiagonally]
+Si l'unité a au moins 30% de ses PV, 
+permet de consommer 20 % des PV max 
+pour empêcher les ennemis d'emprunter
+les 4 cases en diagonale autour de
+l'unité pendant 1 tour.
+
+
+[MSID_WARNING_GazeDiagonally_CMD]
+L'unité ne possède plus assez de PV.
+
+[MSID_BrashAssault]
+Casse cou
+
+[MSID_H_BrashAssault]
+Si l'unité initie le combat avec
+20% de PV ou moins et que l'ennemi
+peut contre-attaquer, l'unité peut
+effectuer une double frappe
+(si l'arme le permet).
+
+[MSID_BrashAssault+]
+Casse cou +
+
+[MSID_H_BrashAssault+]
+Si l'unité initie le combat avec
+40% de PV ou moins et que l'ennemi
+peut contre-attaquer, l'unité peut
+effectuer une double frappe
+(si l'arme le permet).
+
+[MSID_H_AntiAxeArts_1]
+Si l'unité est équipée d'une hache,
+l'unité subit -1 point de dégâts
+pendant le combat.
+
+[MSID_H_AntiAxeArts_2]
+Si l'unité est équipée d'une hache,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiAxeArts_3]
+Si l'unité est équipée d'une hache,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiAxeArts_4]
+Si l'unité est équipée d'une hache,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiAxeArts_5]
+Si l'unité est équipée d'une hache,
+l'unité subit -5 points de dégâts
+pendant le combat.
+
+
+[MSID_H_AntiLanceArts_1]
+Si l'unité est équipée d'une lance,
+l'unité subit -1 point de dégâts
+pendant le combat.
+
+[MSID_H_AntiLanceArts_2]
+Si l'unité est équipée d'une lance,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiLanceArts_3]
+Si l'unité est équipée d'une lance,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiLanceArts_4]
+Si l'unité est équipée d'une lance,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiLanceArts_5]
+Si l'unité est équipée d'une lance,
+l'unité subit -5 points de dégâts
+pendant le combat.
+
+
+[MSID_H_AntiMagicArts_1]
+Si l'unité est équipée d'un tome,
+l'unité subit -1 point de dégâts
+pendant le combat.
+
+[MSID_H_AntiMagicArts_2]
+Si l'unité est équipée d'un tome,
+l'unité subit -2 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiMagicArts_3]
+Si l'unité est équipée d'un tome,
+l'unité subit -3 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiMagicArts_4]
+Si l'unité est équipée d'un tome,
+l'unité subit -4 points de dégâts
+pendant le combat.
+
+[MSID_H_AntiMagicArts_5]
+Si l'unité est équipée d'un tome,
+l'unité subit -5 points de dégâts
+pendant le combat.

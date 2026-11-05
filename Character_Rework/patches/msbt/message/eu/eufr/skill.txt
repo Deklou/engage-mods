@@ -1,0 +1,78 @@
+[MSID_H_PrivateSkill_Vandre]
+Confère Prc +10 à l'unité et au
+Dragon divin, Clanne ou Framme
+pendant le combat si tous les deux 
+sont adjacents.
+
+[MSID_H_PrivateSkill_Clan]
+Confère Crit +10 à l'unité et au
+Dragon divin, Framme ou Vander
+pendant le combat si tous les deux 
+sont adjacents.
+
+[MSID_H_PrivateSkill_Fran]
+Confère Esq +10 à l'unité et au
+Dragon divin, Clanne ou Framme
+pendant le combat si tous les deux 
+sont adjacents.
+
+[MSID_PrivateSkill_Alfred]
+Guardien
+
+[MSID_H_PrivateSkill_Alfred]
+L'unité subit 90 % des dégâts
+reçus.
+
+[MSID_H_PrivateSkill_Lapis]
+Confère Prc/Esq +10 si un allié
+est à une 1 case de l'unité.
+
+[MSID_PrivateSkill_Lapis_2]
+Force surnaturelle
+
+[MSID_H_PrivateSkill_Lapis_2]
+L'équipement pèse désormais 80%
+de son poids initial.
+
+[MSID_H_PrivateSkill_Diamand2]
+Si l'unité et l'ennemi peuvent 
+tous les deux attaquer, l'unité et 
+l'ennemi reçoivent Prc +15 et 
++15% de chance d'activation 
+de toutes les techniques.
+
+[MSID_H_PrivateSkill_Jade]
+Si l'unité subit une attaque 
+magique, confère Rés +4 pendant 
+1 tour.
+
+[MSID_H_PrivateSkill_Umber]
+Si l'unité s'est déplacée d'au
+moins 3 cases avant le combat,
+confère Prc +20.
+
+[MSID_H_PrivateSkill_Fogato]
+Confère Crit +10 si l'unité affronte
+à nouveau son adversaire le plus 
+récent.
+
+[MSID_H_PrivateSkill_Bonet]
+Au début de la phase joueur,
+l'unité récupère 20 PV. 
+Probabilité : Cha en %
+
+[MSID_PrivateSkill_Selestia_E]
+Cri de ralliement
+
+[MSID_PrivateSkill_Gregory_E]
+Douce agonie
+
+[MSID_PrivateSkill_Madeline_E]
+Joue réglo !
+
+[MSID_JobSkill_ShadowPrincessR]
+Augmentation Emblème
+
+[MSID_H_JobSkill_ShadowPrincessR]
+Si l'unité effectue une attaque de
+fusion, confère + 20 % de dégâts.

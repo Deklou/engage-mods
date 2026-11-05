@@ -1,0 +1,87 @@
+[MSID_ChainCrit]
+Bestial Impulse
+[MSID_H_ChainCrit]
+After combat, grants Crit+3 until 
+unit makes a critical.
+
+[MSID_JobSkill_FurtiveMomentum]
+Furtive Momentum
+[MSID_H_JobSkill_FurtiveMomentum]
+After combat, grants Avo+3 until 
+unit avoid an attack.
+
+[MSID_JobSkill_Halberdier]
+Battle Rythm
+[MSID_H_JobSkill_Halberdier]
+After combat, grants Hit+5. Bonus 
+is lost if unit doesn't fight in 
+the following phase.
+
+[MSID_H_JobSkill_Avenir]
+During combat, may prevent 50% of
+damage taken. Trigger %=Lck.
+
+[MSID_H_JobSkill_Fleurage]
+During combat, may add half of Str
+to magic damage or half of Mag to 
+all other damage. Trigger %=Lck.
+
+[MSID_H_JobSkill_Cupido]
+During combat, may deal extra
+damage = half of foe's Spd.
+Trigger %=Dex.
+
+[MSID_H_JobSkill_Melusine]
+Use to make a sword attack that
+deals magic damage. Atk increases 
+on unit's Res.
+[MSID_WARNING_CombatArt_CMD]
+Unit can't use combat art.
+
+[MSID_H_JobSkill_Berserker]
+When making a smash attack, push
+the target 5 spaces instead of 1.
+
+[MSID_H_JobSkill_BowKnight]
+If unit initiates combat, grants Hit+40
+during combat, reduced by Hit-10 for each
+space unit moved before attacking. Bonus
+and penalty halved when not using a bow.
+
+[MSID_H_JobSkill_Sage]
+If unit initiates combat with a tome,
+grants Atk equal to 2x the number of
+adjacent allies with tomes.
+
+[MSID_Parity]
+Parity
+
+[MSID_H_Parity]
+If either unit or foe is equipped with a
+weapon that can inflict smash, neither
+of them can make a follow-up attack.
+
+[MSID_H_LucinaRing_Lissa]
+When unit heals an ally with a staff,
+restores +10% PV to target.
+
+[MSID_H_JobSkill_RoyalKnight]
+If unit's HP is 11 or more, 
+sacrifices 10 HP to prevent an
+adjacent unit from being broken
+during one turn.
+
+[MSID_H_JobSkill_RoyalKnight_CMD]
+Prevent an adjacent unit from being
+broken. Costs 10 HP.
+
+[MSID_Continuum]
+Continuum
+[MSID_H_Continuum]
+When unit avoids an attack, 
+recovers 10 HP.
+
+[MSID_Entrave]
+Restraint
+[MSID_H_Entrave]
+Inflicts Mov-3 on adjacent foes.

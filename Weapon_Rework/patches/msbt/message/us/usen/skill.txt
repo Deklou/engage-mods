@@ -1,0 +1,22 @@
+[MIID_H_WindAxeL]
+A powerful magical axe.
+Effective: Flying.
+
+[MIID_Liberation_+]
+Divine Liberation
+
+[MIID_H_Liberation_+]
+Divine Dragon only. The ultimate
+form of Libération. When unit 
+initiates combat and defeats foe, 
+fills engage meter by 1. 
+Effective: Corrupted, Fell Dragon.
+
+[MIID_H_Trahison]
+Fell Child only. 
+Battle lance that exudes an
+otherworldly air.
+[MIID_H_Levanche]
+Fell Child only. 
+Battle axe that exudes an
+otherworldly air.

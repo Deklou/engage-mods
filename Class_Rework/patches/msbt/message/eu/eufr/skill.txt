@@ -1,0 +1,100 @@
+[MSID_ChainCrit]
+Elan bestial
+
+[MSID_H_ChainCrit]
+Après un combat, confère Crit +3
+jusqu'à ce que l'unité effectue 
+un coup critique.
+
+[MSID_JobSkill_FurtiveMomentum]
+Elan furtif
+
+[MSID_H_JobSkill_FurtiveMomentum]
+Après un combat, confère Esq +3
+jusqu'à ce que l'unité esquive 
+une attaque.
+
+[MSID_JobSkill_Halberdier]
+Rythme de combat
+
+[MSID_H_JobSkill_Halberdier]
+Après un combat, confère Prc +5. 
+Bonus perdu si l'unité ne combat 
+pas lors de la phase suivante.
+
+[MSID_H_JobSkill_Avenir]
+Pendant le combat, peut diminuer
+de 50% les dégâts subis.
+Probabilité : Cha en %.
+
+[MSID_H_JobSkill_Fleurage]
+Pendant le combat, peut ajouter
+50% de Frc aux dégâts magiques
+ou 50% de Mag aux autres types
+de dégâts. Probabilité : Cha en %.
+
+[MSID_H_JobSkill_Cupido]
+Pendant le combat, peut ajouter
+50% de la Vit de l'ennemi aux dégâts.
+Probabilité : Tec en %.
+
+[MSID_H_JobSkill_Melusine]
+Permet de porter un coup magique
+à l'épée. L'Atq augmente si la Rés
+est élevée.
+
+[MSID_WARNING_CombatArt_CMD]
+L'unité ne peut pas utiliser la capacité.
+
+[MSID_H_JobSkill_Berserker]
+Quand l'unité effectue une attaque
+de repoussement, elle éloigne la cible
+de 4 cases au lieu d'1.
+
+[MSID_H_JobSkill_BowKnight]
+Confère Prc +40 pendant le combat si 
+l'unité l'initie avec un arc, réduite de 
+10 pour chaque case parcourue avant le 
+combat. Bonus et pénalité réduits de 
+moitié pour tout autre type d'arme.
+
+[MSID_H_JobSkill_Sage]
+Si l'unité initie le combat équipée
+d'un tome, confère Atq égale à 2x le
+nombre d'alliés adjacents équipés
+de tomes.
+
+[MSID_Parity]
+Parité
+
+[MSID_H_Parity]
+Si l'unité ou l'ennemi sont équipés d'une
+arme de repoussement, aucun des deux
+ne peut effectuer de double frappe.
+
+[MSID_H_LucinaRing_Lissa]
+Lorsque l'unité soigne un allié avec
+un bâton, +10% des PV sont restitués
+à la cible.
+
+[MSID_H_JobSkill_RoyalKnight]
+Si les PV de l'unité sont au moins à
+11, sacrifie 10 PV pour que la garde
+d'un allié adjacent ne puisse pas 
+être brisé pendant un tour.
+
+[MSID_H_JobSkill_RoyalKnight_CMD]
+Empêche la posture d'un allié
+d'être brisée. Coûte 10 PV.
+
+[MSID_Continuum]
+Continuum
+[MSID_H_Continuum]
+Restaure 10 PV à l'unité
+lorsqu'elle esquive une attaque.
+
+[MSID_Entrave]
+Entrave
+[MSID_H_Entrave]
+Inflige Mvt -3 aux ennemis 
+adjacents.

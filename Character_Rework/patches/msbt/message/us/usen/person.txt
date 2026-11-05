@@ -1,0 +1,118 @@
+[MPID_H_Etie]
+Prince Alfred's retainer. A haughty
+woman with a love for building
+muscle.
+Retainer: While adjacent to Alfred
+or Boucheron, shares her personal 
+skill with them.
+[MPID_H_Boucheron]
+Prince Alfred's retainer. A tender-
+hearted man whose powerful build
+comes naturally.
+Retainer: While adjacent to Alfred
+or Etie, shares his personal 
+skill with them.
+
+[MPID_H_Chloe]
+Princess Céline's retainer. A woman
+of noble birth who loves fairy tales
+and sampling folk food.
+Retainer: While adjacent to Céline
+or Louis, shares her personal skill 
+with them.
+[MPID_H_Louis]
+Princess Céline's retainer. A smiling,
+refined gentleman who loves tea.
+Retainer: While adjacent to Céline
+or Chloé, shares his personal skill 
+with them.
+
+[MPID_H_Citrinica]
+Prince Alcryst's retainer. Despite her
+fierce demeanor, she's a noble who
+cares deeply for her friends.
+Retainer: While adjacent to Alcryst
+or Lapis, shares her personal skill 
+with them.
+[MPID_H_Lapis]
+Prince Alcryst's retainer. Her quiet
+modesty belies her superhuman
+strength.
+Retainer: While adjacent to Alcryst
+or Citrinne, shares her personal skill 
+with them.
+
+[MPID_H_Umber]
+Prince Diamant's retainer. Has about
+boundless enthusiasm for legends
+and adventure.
+Retainer: While adjacent to Diamant
+or Jade, shares his personal skill
+with them.
+
+[MPID_H_Jade]
+Prince Diamant's retainer. A warrior
+of few words who always keeps her
+wits about her.
+Retainer: While adjacent to Diamant
+or Amber, shares her personal skill
+with them.
+
+[MPID_H_Kagetsu]
+Princess Ivy's retainer. A handsome
+young man from outside Elusia who
+speaks freely and without inhibition.
+Retainer: While adjacent to Ivy or 
+Zelkov, shares his personal skill
+with them.
+[MPID_H_Zelkova]
+Princess Ivy's retainer. An enigmatic
+man who's always absorbed in
+intrigues of his own making.
+Retainer: While adjacent to Ivy or 
+Kagetsu, shares his personal skill
+with them.
+
+[MPID_H_Pandoro_2]
+Prince Fogado's retainer. A fun-
+loving yet deeply religious cleric.
+Retainer: While adjacent to Fogado 
+or Bunet, shares his personal skill
+with them.
+[MPID_H_Bonet_2]
+Prince Fogado's retainer. A young
+chef with a refined palate and keen
+sense of smell.
+Retainer: While adjacent to Fogado 
+or Pandreo, shares his personal skill
+with them.
+
+[MPID_H_Panetone]
+Princess Timerra's retainer. She has
+a tendancy to speak in erratic and 
+somewhat stilted tones.
+Retainer: While adjacent to Timerra 
+or Merrin, shares her personal skill
+with them.
+[MPID_H_Merin]
+Princess Timerra's retainer. She's a
+ashing woman with a fondness 
+for animals.
+Retainer: While adjacent to Timerra 
+or Panette, shares her personal skill
+with them.
+
+[MPID_H_Rosado]
+Princess Hortensia's retainer.
+He loves cute things and always
+maintains a bright, positive attitude.
+Retainer: While adjacent to Hortensia 
+or Goldmary, shares his personal skill
+with them.
+[MPID_H_Goldmary]
+Princess Hortensia's retainer. She
+seems demure on the surface, but
+is conceited to the core.
+Retainer: While adjacent to Hortensia 
+or Rosado, shares her personal skill
+with them.

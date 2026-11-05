@@ -1,0 +1,25 @@
+[MIID_H_WindAxeL]
+Une puissante hache magique.
+Efficace contre les unités volantes.
+
+[MIID_Liberation_+]
+Libération divine
+
+[MIID_H_Liberation_+]
+Dragon divin uniquement. La forme 
+ultime de Libération. Jauge de 
+fusion +1 si l'unité attaque et 
+élimine un ennemi en un seul tour.
+Efficace contre les Abberations et
+les Dragons déchus.
+
+[MIID_Trahison]
+Trahison
+[MIID_H_Trahison]
+Enfant déchu uniquement. 
+Lance de guerre dont émane
+une aura d'un autre monde.
+[MIID_H_Levanche]
+Enfant déchu uniquement. 
+Hache de guerre dont émane
+une aura d'un autre monde.

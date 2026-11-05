@@ -1,0 +1,40 @@
+[MSID_H_AntiKnifeArts_1]
+If unit is equipped with a knife, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiKnifeArts_2]
+If unit is equipped with a knife, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiKnifeArts_3]
+If unit is equipped with a knife, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiKnifeArts_4]
+If unit is equipped with a knife, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiKnifeArts_5]
+If unit is equipped with a knife, unit
+takes 5 less damage during combat.
+
+
+[MSID_H_AntiSwordArts_1]
+If unit is equipped with a sword, unit
+takes 1 less damage during combat.
+
+[MSID_H_AntiSwordArts_2]
+If unit is equipped with a sword, unit
+takes 2 less damage during combat.
+
+[MSID_H_AntiSwordArts_3]
+If unit is equipped with a sword, unit
+takes 3 less damage during combat.
+
+[MSID_H_AntiSwordArts_4]
+If unit is equipped with a sword, unit
+takes 4 less damage during combat.
+
+[MSID_H_AntiSwordArts_5]
+If unit is equipped with a sword, unit
+takes 5 less damage during combat.

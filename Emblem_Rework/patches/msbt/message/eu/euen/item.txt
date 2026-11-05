@@ -1,0 +1,46 @@
+[MIID_H_Leaf_KillerAxe]
+Axe wielded by Emblem Leif.
+Easily inflicts fatal wounds.
+Critical hits double unit's
+Atk instead of tripling damage.
+
+[MIID_H_Leaf_KillerAxe_M008]
+An Emblem's axe. Easy to inflict a
+fatal wound with. Critical hits
+double unit's Atk instead of
+tripling damage.
+
+[MIID_H_Leaf_LightBrand]
+Magical sword wielded by Emblem
+Leif. Grants Lck+10. Can strike
+close or at range. Becomes physical
+at close range if that is stronger.
+
+[MIID_Raijinto]
+Raijinto
+[MIID_H_Raijinto]
+A legendary katana from Hoshido. 
+Grants Str+4, Spd+1, Def/Res-1.
+
+[MIID_Siegfried]
+Siegfried
+[MIID_H_Siegfried]
+A legendary sword from Nohr.
+Grants Def+4.
+
+[MIID_FujinYumi]
+Fujin Yumi
+[MIID_H_FujinYumi]
+A legendary yumi from Hoshido. 
+Grants Res+2 and wielder is not
+slowed by terrain effects.
+
+[MIID_Brynhildr]
+Brynhildr
+[MIID_H_Brynhildr]
+A legendary tome from Nohr. 
+Grants Ddg+20 and may halve 
+damage from magical attacks.
+
+[MID_RoyalWeapons]
+You obtained weapons from Nohr and Hoshido!
