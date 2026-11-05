@@ -50,3 +50,10 @@ Sacred sword wielded by Emblem
 Ike. Grants Def+5. Can strike
 close or at range.
 Prevents enemy critical hits.
+
+[MIID_H_Kamui_DualKatana]
+Unusual sword wielded by Emblem
+Corrin. Grants advantage vs. lances
+but disadvantage vs. axes.
+When advantaged: Dmg+1, Hit+15,
+Avo+15.

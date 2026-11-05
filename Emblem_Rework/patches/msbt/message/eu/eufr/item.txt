@@ -53,3 +53,10 @@ You obtained weapons from Nohr and Hoshido!
 Ike. Confère Déf +5. Peut attaquer
 au loin ou au corps à corps.
 Empêche les coups critiques ennemis.
+
+[MIID_H_Kamui_DualKatana]
+Épée spéciale de l'Emblème Corrin.
+Avantage contre les lances,
+mais désavantage contre les haches.
+Si avantage : dégâts +1, Prc +15,
+Évit +15.
