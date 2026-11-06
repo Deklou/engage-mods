@@ -63,3 +63,9 @@ Corrin. Grants advantage vs. lances
 but disadvantage vs. axes.
 When advantaged: Dmg+1, Hit+15,
 Avo+15.
+
+[MIID_H_Eirik_WindSword]
+Sword wielded by Emblem Eirika.
+Effective against flying foes.
+Uses Str against Def at close range.
+At range, uses Str/2 against Res.

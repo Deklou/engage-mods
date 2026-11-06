@@ -67,3 +67,9 @@ Avantage contre les lances,
 mais désavantage contre les haches.
 Si avantage : dégâts +1, Prc +15,
 Évit +15.
+
+[MIID_H_Eirik_WindSword]
+Épée maniée par l'Emblème Eirika.
+Efficace contre les unités volantes.
+Au corps à corps : Frc contre Déf.
+À distance : Frc/2 contre Rés.
